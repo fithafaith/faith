@@ -1,1 +1,1 @@
-Learning Git Basics
+Learning Git Basics through Integrative Programming
